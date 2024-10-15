@@ -1,4 +1,5 @@
-# sensitivity
+Substack article on tests and their statistical power: https://open.substack.com/pub/ranjas/p/power-analysis-24-02-02
+
 
 Selecting a **sample size** for machine learning is a challenging open problem. Typically, there is a relationship between training data size and model performance, especially for nonlinear models. However, the caveat is that such a relation might not exist for some model algorithms and datasets. 
 
