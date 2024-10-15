@@ -1,7 +1,7 @@
 
 Selecting a **sample size** for machine learning is a challenging open problem. Typically, there is a relationship between training data size and model performance, especially for nonlinear models. Apparently the caveat is that such a relation might not exist for some model algorithms and datasets. 
 
-Substack article on tests & their statistical power: https://open.substack.com/pub/ranjas/p/power-analysis-24-02-02
+Substack article on tests & how sample size affects statistical power of tests: https://open.substack.com/pub/ranjas/p/power-analysis-24-02-02
 
 A **sensitivity analysis** forms the basis of testing different model algorithms and their configurations with the data sizes used to train them. This helps in evaluating a better algorithm for a task and decide on a rough estimate of the training data size needed to build an optimally performing predictive model, apart from statistical heuristics such as number of classes (for classification), number of input features or number of hyperparameters that are considered for the model. 
 
