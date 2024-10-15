@@ -7,4 +7,5 @@ A **sensitivity analysis** forms the basis of testing different model algorithms
 
 
 A good read on the effectiveness of larger datasets in deep learning models:
-https://arxiv.org/abs/1707.02968
+https://www.semanticscholar.org/reader/8760bc7631c0cb04e7138254e9fd6451b7def8ca
+
